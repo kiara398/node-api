@@ -19,22 +19,6 @@
     "lastName": "employee",
     "department": "software"
   },
-  {
-    "firstName": "",
-    "lastName": "",
-    "department": ""
-  },
-  null,
   {},
-  {},
-  null,
-  null,
-  {},
-  null,
-  {
-    "firstName": "firstName",
-    "lastName": "lastName",
-    "department": "department"
-  },
-  {}
+  null
 ]

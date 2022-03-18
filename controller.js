@@ -33,9 +33,7 @@ fs.readFile("mockdata.json", function(err, data) {
 }
 
 exports.createEmployee = function(req, res) {
-var employees = {
-
-}
+var employees = req.data
 fs.readFile('mockdata.json', function(err,data){
   var employee = JSON.parse(data)
   employee.push(employees)
