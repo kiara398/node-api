@@ -1,0 +1,40 @@
+[
+  {
+    "firstName": "winnie",
+    "lastName": "kiki",
+    "department": "maths"
+  },
+  {
+    "firstName": "New",
+    "lastName": "user",
+    "department": "software"
+  },
+  {
+    "firstName": "New",
+    "lastName": "user",
+    "department": "software"
+  },
+  {
+    "firstName": "New",
+    "lastName": "employee",
+    "department": "software"
+  },
+  {
+    "firstName": "",
+    "lastName": "",
+    "department": ""
+  },
+  null,
+  {},
+  {},
+  null,
+  null,
+  {},
+  null,
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "department": "department"
+  },
+  {}
+]
